@@ -1,4 +1,3 @@
-import { useState } from "react";
 import poridhiLogo from "./assets/poridhi.png";
 
 import "./App.css";

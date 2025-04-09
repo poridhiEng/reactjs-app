@@ -6,7 +6,3 @@ This is a React.js application built with Vite. To run this project locally:
 npm install
 npm run dev
 ```
-
-```
-
-```
